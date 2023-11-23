@@ -39,6 +39,7 @@ function calcularNivel(vitorias, derrotas) {
             break
     }
 
+    
     return `O Herói tem saldo de ${saldoVitorias} está no nível de ${nivel}`;
 }
 
